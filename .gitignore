@@ -1,0 +1,5 @@
+/.env
+/chromedriver.exe
+/.pytest_cache
+/src/Pages/PreconditionSQL.py
+/.idea
